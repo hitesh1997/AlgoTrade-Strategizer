@@ -1,4 +1,4 @@
-# Dynamic Trading Strategies
+# Dynamic Algo-Trading Strategies
 
 This repository contains algorithmic trading strategies focused on the Indian Stock Market, utilizing Python for financial data analysis and strategy execution. 
 
